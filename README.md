@@ -9,13 +9,13 @@
 ---
 
 ### 🎓 Professional Profile
-I am a **fifth-year Computer Civil Engineering student** at **Universidad de La Frontera**. My focus is on **AI Strategy**, **Data Analytics**, and **Technical Leadership**.
+I am a **fifth-year Computer Civil Engineering student** at **Universidad de La Frontera**, Chile. My profile is oriented towards **AI Strategy**, **Data Analytics**, and **Technical Leadership**.
 
-I specialize in **investigative problem-solving**. I enjoy analyzing complex challenges to design technical strategies, particularly in **Generative AI**.
+I focus on **investigative problem-solving**. I enjoy analyzing complex challenges to design technical strategies, particularly in the field of **Generative AI**.
 
-- 🔍 **Research:** Published author at **ENASE 2026** (Spain).
 - 🗣️ **Communication:** Strong soft skills in complex problem solving and technical comprehension.
 - 🌍 **Languages:** Native/Bilingual in **Mandarin Chinese**, **Cantonese**, and **Spanish**.
+- 🏫 **Academic Leadership:** Experienced tutor and teaching assistant in engineering and language courses.
 
 ---
 
@@ -24,22 +24,22 @@ I specialize in **investigative problem-solving**. I enjoy analyzing complex cha
 | Focus Area | Core Competencies |
 | :--- | :--- |
 | **Generative AI** | Prompt Engineering, RAG, Agents, LLM Evaluation |
-| **Data & Analytics** | [cite_start]Data Visualization, Power BI (DAX), ETL/ELT, Azure Data Factory [cite: 24, 27, 34] |
-| **Leadership** | Academic Mentorship, Bilingual Tutoring, Research Coordination |
+| **Data & Analytics** | Data Visualization, Power BI (DAX), ETL/ELT, Azure Data Factory |
+| **Leadership** | Academic Mentorship, Bilingual Tutoring, Project Investigation |
 
 ---
 
 ### 🚀 Key Project: AI Teacher Evaluation System
 Led the research and design of an automated evaluation platform based on **Prompt Engineering**.
 - **Investigation:** Analyzed official pedagogical frameworks to define evaluation indicators.
-- **AI Design:** Engineered high-precision prompts aligned with official documentation.
+- **AI Design:** Engineered high-precision prompts aligned with official documentation for accurate assessment.
 
 ---
 
 ### 💼 Experience
-- [cite_start]**Web Application Developer (DME Project):** Backend developer for learning process improvement[cite: 19].
-- [cite_start]**Data & BI Intern (BDS Spa):** Executed data integration and Business Intelligence tasks[cite: 16, 18].
-- [cite_start]**Academic Assistant:** Tutor for Multivariable Calculus, Computer Science, and Beginner Chinese[cite: 10, 12, 13, 14].
+- **Web Application Developer (DME Project):** Backend developer for learning process improvement.
+- **Data & BI Intern (BDS Spa):** Executed data integration and Business Intelligence tasks.
+- **Academic Assistant:** Tutor for Multivariable Calculus, Computer Science, and Beginner Chinese.
 
 ---
 
@@ -52,11 +52,11 @@ Led the research and design of an automated evaluation platform based on **Promp
 ### 🔋 Personal Hobbies
 * 📈 **Finance:** Personal interest in trading and economic trends.
 * 🏃 **Sports:** Staying active and physical training.
-* 🎸 **Music:** Playing the guitar and listening to **Guofeng**.
+* 🎸 **Music:** Playing the guitar.
 * 🎬 **Culture:** Cinema and Anime enthusiast.
 
 ---
 
 ### 📫 Contact
-- [cite_start]**Email**: zihao.xiao1888@gmail.com [cite: 4]
+- **Email**: zihao.xiao1888@gmail.com
 - **Languages**: Mandarin, Cantonese, Spanish (Bilingual); English (PET Cambridge).
