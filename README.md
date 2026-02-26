@@ -15,7 +15,7 @@ I focus on **investigative problem-solving**. I enjoy analyzing complex challeng
 
 - 🗣️ **Communication:** Strong soft skills in complex problem solving and technical comprehension.
 - 🌍 **Languages:** Native/Bilingual in **Mandarin Chinese**, **Cantonese**, and **Spanish**.
-- [cite_start]🏫 **Academic Leadership:** Experienced tutor and teaching assistant in engineering and language courses[cite: 10, 15].
+- 🏫 **Academic Leadership:** Experienced tutor and teaching assistant in engineering and language courses.
 
 ---
 
@@ -24,7 +24,7 @@ I focus on **investigative problem-solving**. I enjoy analyzing complex challeng
 | Focus Area | Core Competencies |
 | :--- | :--- |
 | **Generative AI** | Prompt Engineering, RAG, Agents, LLM Evaluation |
-| **Data & Analytics** | [cite_start]Data Visualization, Power BI (DAX), ETL/ELT, Azure Data Factory [cite: 24, 27, 34] |
+| **Data & Analytics** | Data Visualization, Power BI (DAX), ETL/ELT, Azure Data Factory |
 | **Leadership** | Academic Mentorship, Bilingual Tutoring, Project Investigation |
 
 ---
@@ -37,16 +37,16 @@ Led the research and design of an automated evaluation platform based on **Promp
 ---
 
 ### 💼 Experience
-- [cite_start]**Web Application Developer (DME Project):** Backend developer for learning process improvement[cite: 19].
-- [cite_start]**Data & BI Intern (BDS Spa):** Executed data integration and Business Intelligence tasks[cite: 16, 18].
-- [cite_start]**Academic Assistant:** Tutor for Multivariable Calculus, Computer Science, and Beginner Chinese[cite: 10, 12, 13, 14, 15].
+- **Web Application Developer (DME Project):** Backend developer for learning process improvement.
+- **Data & BI Intern (BDS Spa):** Executed data integration and Business Intelligence tasks.
+- **Academic Assistant:** Tutor for Multivariable Calculus, Computer Science, and Beginner Chinese.
 
 ---
 
 ### 📊 GitHub Ecosystem
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=axiao1134&show_icons=true&theme=tokyonight"alt="Zihao's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiao1134&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=axiao1134&show_icons=true&theme=vibrant" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiao1134&layout=compact&theme=vibrant" alt="Langs" />
 </p>
 
 ---
@@ -60,5 +60,5 @@ Led the research and design of an automated evaluation platform based on **Promp
 ---
 
 ### 📫 Contact
-- [cite_start]**Email**: zihao.xiao1888@gmail.com [cite: 4]
-- **Languages**: Mandarin, Cantonese, Spanish (Bilingual); English.
+- **Email:** zihao.xiao1888@gmail.com
+- **Languages:** Mandarin, Cantonese, Spanish (Bilingual); English.
