@@ -1,98 +1,72 @@
 <h1 align="center">Zihao Xiao</h1>
-<h3 align="center">AI & Data Strategy 👋</h3>
+<p align="center"><strong>AI & Data Strategy | Computer Civil Engineering</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPA-6.10%20%2F%207.00-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Languages-CN%20%7C%20Cantonese%20%7C%20ES%20%7C%20EN-16a34a?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=axiao1134&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPA-6.10%20%2F%207.00-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Languages-CN%20|%20Cantonese%20|%20ES%20|%20EN-555555?style=flat"/>
 </p>
 
 ---
 
-## 🎓 Professional Profile
+## Profile
 
-🎓 **Fifth-year Computer Civil Engineering student** at **Universidad de La Frontera**, Chile.  
-🎯 Focused on **AI Strategy**, **Data Analytics**, and **Technical Leadership**.
+Fifth-year **Computer Civil Engineering** student at **Universidad de La Frontera (Chile)** with a professional orientation toward:
 
-🧠 Passionate about **investigative problem-solving**, analyzing complex challenges and designing technical strategies in **Generative AI**.
+- **AI Strategy**
+- **Data Analytics**
+- **Technical Leadership**
 
-💬 **Communication:** Strong soft skills in complex problem solving and technical comprehension.  
-🌏 **Languages:** Native/Bilingual in **Mandarin Chinese**, **Cantonese**, and **Spanish**.  
-👨‍🏫 **Academic Leadership:** Experienced tutor and teaching assistant in engineering and language courses.
+Strong focus on investigative problem-solving and structured analysis of complex systems, particularly within **Generative AI environments**.
 
----
-
-## 🛠️ Technical Focus
-
-<table align="center">
-<tr>
-<th>🚀 Focus Area</th>
-<th>⚙️ Core Competencies</th>
-</tr>
-<tr>
-<td><strong>Generative AI</strong></td>
-<td>Prompt Engineering • RAG • Agents • LLM Evaluation</td>
-</tr>
-<tr>
-<td><strong>Data & Analytics</strong></td>
-<td>Data Visualization • Power BI (DAX) • ETL/ELT • Azure Data Factory</td>
-</tr>
-<tr>
-<td><strong>Leadership</strong></td>
-<td>Academic Mentorship • Bilingual Tutoring • Project Investigation</td>
-</tr>
-</table>
+Experience in academic mentoring, technical tutoring, and analytical project development.
 
 ---
 
-## 🚀 Key Project: AI Teacher Evaluation System
+## Core Competencies
 
-🧩 Led the research and design of an automated evaluation platform based on **Prompt Engineering**.
+### Generative AI
+Prompt Engineering · RAG · Agents · LLM Evaluation  
 
-🔍 **Investigation:** Analyzed official pedagogical frameworks to define evaluation indicators.  
-🤖 **AI Design:** Engineered high-precision prompts aligned with official documentation for accurate assessment.
+### Data & Analytics
+Data Visualization · Power BI (DAX) · ETL/ELT · Azure Data Factory  
+
+### Leadership
+Academic Mentorship · Bilingual Tutoring · Project Investigation  
 
 ---
 
-## 💼 Experience
+## Selected Project
 
-💻 **Web Application Developer (DME Project)**  
-Backend developer for learning process improvement.
+### AI Teacher Evaluation System
 
-📊 **Data & BI Intern (BDS Spa)**  
-Executed data integration and Business Intelligence tasks.
+Contributed to the research and design of an automated evaluation platform based on **Prompt Engineering**.
 
-📚 **Academic Assistant**  
+- Analyzed official pedagogical frameworks to define evaluation indicators  
+- Engineered structured prompts aligned with official documentation for evaluation consistency  
+
+---
+
+## Professional Experience
+
+**Web Application Developer (DME Project)**  
+Backend development for learning process improvement.
+
+**Data & BI Intern (BDS Spa)**  
+Data integration and Business Intelligence implementation.
+
+**Academic Assistant**  
 Tutor for Multivariable Calculus, Computer Science, and Beginner Chinese.
 
 ---
 
-## 📊 GitHub Ecosystem
+## Additional Interests
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=axiao1134&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiao1134&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+Finance · Sports · Music (Guitar) · Cinema & Anime  
 
 ---
 
-## 🔋 Personal Hobbies
+## Contact
 
-📈 **Finance:** Personal interest in trading and economic trends.  
-🏋️ **Sports:** Staying active and physical training.  
-🎸 **Music:** Playing the guitar.  
-🎬 **Culture:** Cinema and Anime enthusiast.
-
----
-
-## 📫 Contact
-
-📧 **Email:** zihao.xiao1888@gmail.com  
-🌐 **Languages:** Mandarin, Cantonese, Spanish (Bilingual); English.
+Email: zihao.xiao1888@gmail.com  
+Languages: Mandarin · Cantonese · Spanish (Bilingual) · English
