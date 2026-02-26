@@ -61,4 +61,4 @@ Led the research and design of an automated evaluation platform based on **Promp
 
 ### 📫 Contact
 - **Email:** zihao.xiao1888@gmail.com
-- **Languages:** Mandarin, Cantonese, Spanish (Bilingual); English.
+- **Languages:** Mandarin, Cantonese, Spanish (Bilingual); English (PET Cambridge).
