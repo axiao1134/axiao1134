@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPA-6.10%20%2F%207.00-3B82F6?style=flat"/>
+  <img src="https://img.shields.io/badge/GPA-6.11%20%2F%207.00-3B82F6?style=flat"/>
   <img src="https://img.shields.io/badge/Polyglot-CN%20•%20Cantonese%20•%20ES%20•%20EN-22C55E?style=flat"/>
 </p>
 
